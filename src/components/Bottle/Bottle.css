@@ -1,0 +1,13 @@
+.bottle{
+    border: 1px solid rgb(114, 164, 250);
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.bottle img{
+    width: 300px;
+    border-radius: 15px;
+}
